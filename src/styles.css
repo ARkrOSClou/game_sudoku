@@ -1,0 +1,10 @@
+body {
+	font-weight: 500;
+	font-family: 'Poppins', sans-serif;
+}
+#root {
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	justify-content: flex-start;
+}
